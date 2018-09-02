@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FoodMenu</string>
+
+    <!-- OnBoarding Related -->
+    <string name="welcome_text">Welcome!\n Please take a look inside to see all the delicious healthy food we have today.</string>
+
+    <!-- Error Related -->
+    <string name="menu_fetch_error">Unable to fetch menu. Please check your Internet connection and try again!</string>
+    <string name="unknown_error">There was an unknown error. Please try again later!</string>
+
+    <!-- Menu Related -->
+    <string name="menu_image_content_description">Menu ImageView Content Description</string>
+    <string name="avatar_image_content_description">Avatar ImageView Content Description</string>
+    <string name="show_menu_button">Show me the Menu!</string>
+    <string name="food_menu_title">Food Menu</string>
+    <string name="food_placeholder_text">Food</string>
+
+</resources>

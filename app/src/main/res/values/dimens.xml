@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Food Image -->
+    <dimen name="image_food_size">80dp</dimen>
+    <dimen name="image_horizontal_margin">16dp</dimen>
+    <dimen name="image_vertical_margin">9dp</dimen>
+    <dimen name="image_first_item_additional_margin">15dp</dimen>
+</resources>
